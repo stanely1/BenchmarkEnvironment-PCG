@@ -84,10 +84,11 @@ class Generator(search.Generator):
             door_location = info['kd_path'][-1] if info['kd_path'] else -1
             return (player_location, key_location, door_location)
 
-
-
+        # OK
         if self._problem.startswith('isaac-'):
-            return (info['dead_end'], info['locations'])
+            return (info['dead_end'], info['locations'], sum(1 for x in info['flat'] if x == 0))
+
+
 
         if self._problem.startswith('building-'):
             return (info['blocks'], sum(1 for h in info['heights'] if h != 0))
