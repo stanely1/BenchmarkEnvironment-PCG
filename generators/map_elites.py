@@ -5,11 +5,13 @@ class Generator(search.Generator):
         super().reset(**kwargs)
 
         self._problem = kwargs.get('problem')
-        self._lambda_size = kwargs.get('lambda_size', 100)
+        self._pop_size = kwargs.get('pop_size', 100)
+        self._tournment_size = kwargs.get('tournment_size', 7)
+        self._cross_rate = kwargs.get('cross_rate', 0.5)
         self._mut_rate = kwargs.get('mut_rate', 0.05)
 
         chromosomes = []
-        for _ in range(self._lambda_size):
+        for _ in range(self._pop_size):
             chromosomes.append(search.Chromosome(self._random))
             chromosomes[-1].random(self._env)
         search.evaluateChromosomes(self._env, chromosomes)
@@ -19,17 +21,36 @@ class Generator(search.Generator):
 
 
     def update(self):
-        # TODO: GA?
-        curr_chromosomes = list(self._map_elites.values())
         new_chromosomes = []
-        for i in range(self._lambda_size):
-            index = self._random.integers(len(curr_chromosomes))
-            new_chromosomes.append(curr_chromosomes[index][0].mutation(self._env, self._mut_rate))
+        while len(new_chromosomes) < self._pop_size:
+            child = self._select()
+            if self._random.random() < self._cross_rate:
+                parent = self._select()
+                child = child.crossover(parent)
+            child = child.mutation(self._env, self._mut_rate)
+            new_chromosomes.append(child)
+
         search.evaluateChromosomes(self._env, new_chromosomes)
         self._update_map_elites(new_chromosomes)
 
         quality_passing_cells = len(list(filter(lambda c: c.quality() == 1, self._chromosomes)))
         print(f'cells that pass quality test: {quality_passing_cells}/{len(self._chromosomes)} ({100.0*quality_passing_cells/len(self._chromosomes):.2f}%)')
+
+
+    def _select(self):
+        size = self._tournment_size
+        if size > len(self._chromosomes):
+            size = len(self._chromosomes)
+
+        tournment = list(range(len(self._chromosomes)))
+        self._random.shuffle(tournment)
+
+        chromosomes = []
+        for i in range(size):
+            chromosomes.append(self._chromosomes[tournment[i]])
+        chromosomes.sort(key=lambda c: self._fitness_fn(c), reverse=True)
+
+        return chromosomes[0]
 
 
     def _update_map_elites(self, new_chromosomes):
@@ -46,14 +67,34 @@ class Generator(search.Generator):
     def _get_cell_id(self, chromosome):
         info = chromosome._info
 
-        # TODO: use problem specific features
+        # OK
         if self._problem.startswith('binary-'):
-            # return (info['path'], info['regions'])
-            # number of empty tiles
-            return sum(info['flat'])
+            # (number of empty tiles, number of 4-long empty spaces / 10)
+            arr = info['flat']
+            return (sum(arr), sum(1 for i in range(len(arr) - 3) if all(arr[i:i+4])) // 10)
 
-        if self._problem.startswith('sokoban-'):
-            return (info['crates'], info['targets'])
+        # OK
+        if self._problem.startswith('mdungeons-'):
+            return (info['potions'] // 3, info['treasures'] // 3, info['enemies'] // 3)
+
+        # OK
+        if self._problem.startswith('zelda-'):
+            player_location = info['pk_path'][0] if info['pk_path'] else -1
+            key_location = info['kd_path'][0] if info['kd_path'] else -1
+            door_location = info['kd_path'][-1] if info['kd_path'] else -1
+            return (player_location, key_location, door_location)
+
+
+
+        if self._problem.startswith('isaac-'):
+            return (info['dead_end'], info['locations'])
+
+        if self._problem.startswith('building-'):
+            return (info['blocks'], sum(1 for h in info['heights'] if h != 0))
+
+        # Can't find solution that passes quality
+        if self._problem.startswith('talakat-'):
+            return (info['script_connectivity'], round(info['bullet_coverage'], 1))
 
         if self._problem.startswith('ddave-'):
             player_locations = info['player_locations']
@@ -64,7 +105,7 @@ class Generator(search.Generator):
 
             return (player_location, exit_location)
 
-        if self._problem.startswith('building-'):
-            return (info['blocks'])#, tuple(info['heights']))
+        if self._problem.startswith('sokoban-'):
+            return (info['crates'], info['targets'])
 
         raise RuntimeError(f'Unknown problem: {self._problem}')
