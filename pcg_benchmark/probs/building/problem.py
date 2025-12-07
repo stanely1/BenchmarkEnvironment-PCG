@@ -13,7 +13,7 @@ def _random_control(self):
         sum_all += control[k]
     remaining = target
     for k in control:
-        control[k] = int((control[k] / sum_all) * target)
+        control[k] = int((control[k] / (sum_all if sum_all != 0 else 1)) * target)
         remaining -= control[k]
     control[self._random.choice(list(control.keys()))] += remaining
     return control
@@ -66,7 +66,7 @@ def _simulate(content, width, length, height):
                 for x in range(sx,ex):
                     result[z][y][x] = t + 1
         else:
-            failed += 1 
+            failed += 1
     for y in range(length):
         for x in range(width):
             found = False
@@ -105,7 +105,7 @@ class BuildingProblem(Problem):
             "3x3": IntegerSpace(self._target)
         })
         self._control_space.sample = _random_control.__get__(self._control_space, DictionarySpace)
-        
+
     def info(self, content):
         lvl, heights, failing = _simulate(content, self._width, self._length, self._height)
         values = [0, 0, 0, 0]
@@ -123,7 +123,7 @@ class BuildingProblem(Problem):
             "3x1": values[2],
             "3x3": values[3]
         }
-    
+
     def quality(self, info):
         target = get_range_reward(info["blocks"], 0, self._target)
         min_height = 0
@@ -136,7 +136,7 @@ class BuildingProblem(Problem):
                 min_height += 1
             min_height /= int(self._min_height * self._height)
         return (target + min_height) / 2
-    
+
     def diversity(self, info1, info2):
         diversity = abs(info1["lvl_1x1"] - info2["lvl_1x1"]).sum()
         diversity += abs(info1["lvl_1x3"] - info2["lvl_1x3"]).sum()

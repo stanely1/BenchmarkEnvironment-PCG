@@ -35,7 +35,7 @@ def main(folder: str = 'outputs',
          **kwargs):
     """
     Run a generator from the list of generators.
-    
+
     Args:
         folder (str): The folder to save the search results
         problem (str): Problem to solve ('binary-v0', 'zelda-v0', 'sokoban-v0', etc.)
@@ -44,26 +44,26 @@ def main(folder: str = 'outputs',
         early_stop (bool): Stop generation when the best fitness reaches 1
         seed (int): Random seed for the environment (optional)
         **kwargs: Additional arguments passed to the generator (e.g., fitness='quality_control')
-    
+
     Examples:
         python run.py --folder=outputs --problem=sokoban-v0 --generator=ga --steps=100
         python run.py --folder=outputs --problem=sokoban-v0 --generator=ga --steps=100 --fitness=quality_control
         python run.py --folder=outputs --problem=sokoban-v0 --generator=ga --steps=100 --early_stop=True --seed=42
     """
-    
+
     outputfolder = folder
 
     # Create environment
     env = pcg_benchmark.make(problem)
     if seed is not None:
         env.seed(seed)
-    
+
     # Import and initialize generator
     module = import_module(f"generators.{generator}")
     if not hasattr(module, "Generator"):
         raise ValueError(f"generators.{generator}.Generator doesn't exist.")
     gen = module.Generator(env)
-    
+
     # Start generation
     print(f"Starting {generator}:")
     print(f"  Problem: {problem}")
@@ -75,22 +75,24 @@ def main(folder: str = 'outputs',
     if kwargs:
         print(f"  Additional parameters: {kwargs}")
     print()
-    
+
+    kwargs['problem'] = problem
+
     # Reset generator with additional kwargs
     gen.reset(**kwargs)
     print(f"  Iteration 0: {gen.best():.2f}")
     gen.save(f"{outputfolder}/iter_0")
-    
+
     # Run iterations
     for i in range(steps):
         gen.update()
         print(f"  Iteration {i+1}: {gen.best():.2f}")
         gen.save(f"{outputfolder}/iter_{i+1}")
-        
+
         if early_stop and gen.best() >= 1:
             print(f"\nEarly stopping at iteration {i+1} (fitness >= 1.0)")
             break
-    
+
     print(f"\nGeneration complete! Results saved to '{outputfolder}'")
 
 if __name__ == "__main__":
