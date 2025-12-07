@@ -1,0 +1,7036 @@
+============================================================
+=== Fitness Statistics by Generation ===
+============================================================
+
+Folder: outputs/mdungeons-v0
+Fitness Type: quality
+Environment: mdungeons-v0
+
+============================================================
+
+
+Generation 0:
+  Best Fitness: 0.3019
+  Avg Fitness: 0.2859 ± 0.0077
+  Median Fitness: 0.2866
+  Min Fitness: 0.2636
+  Population Size: 60
+  Best Quality: 0.3019
+  Avg Quality: 0.2859
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4722
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 1:
+  Best Fitness: 0.3117
+  Avg Fitness: 0.2922 ± 0.0090
+  Median Fitness: 0.2929
+  Min Fitness: 0.2636
+  Population Size: 92
+  Best Quality: 0.3117
+  Avg Quality: 0.2922
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4657
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 2:
+  Best Fitness: 0.3187
+  Avg Fitness: 0.2961 ± 0.0093
+  Median Fitness: 0.2978
+  Min Fitness: 0.2685
+  Population Size: 105
+  Best Quality: 0.3187
+  Avg Quality: 0.2961
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4473
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 3:
+  Best Fitness: 0.3187
+  Avg Fitness: 0.2996 ± 0.0103
+  Median Fitness: 0.2999
+  Min Fitness: 0.2685
+  Population Size: 117
+  Best Quality: 0.3187
+  Avg Quality: 0.2996
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4411
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 4:
+  Best Fitness: 0.3270
+  Avg Fitness: 0.3027 ± 0.0112
+  Median Fitness: 0.3033
+  Min Fitness: 0.2685
+  Population Size: 129
+  Best Quality: 0.3270
+  Avg Quality: 0.3027
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4272
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 5:
+  Best Fitness: 0.3270
+  Avg Fitness: 0.3052 ± 0.0126
+  Median Fitness: 0.3055
+  Min Fitness: 0.2685
+  Population Size: 136
+  Best Quality: 0.3270
+  Avg Quality: 0.3052
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4195
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 6:
+  Best Fitness: 0.3291
+  Avg Fitness: 0.3070 ± 0.0136
+  Median Fitness: 0.3079
+  Min Fitness: 0.2685
+  Population Size: 142
+  Best Quality: 0.3291
+  Avg Quality: 0.3070
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4127
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 7:
+  Best Fitness: 0.3312
+  Avg Fitness: 0.3083 ± 0.0143
+  Median Fitness: 0.3093
+  Min Fitness: 0.2685
+  Population Size: 148
+  Best Quality: 0.3312
+  Avg Quality: 0.3083
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4028
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 8:
+  Best Fitness: 0.3312
+  Avg Fitness: 0.3100 ± 0.0148
+  Median Fitness: 0.3138
+  Min Fitness: 0.2685
+  Population Size: 154
+  Best Quality: 0.3312
+  Avg Quality: 0.3100
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3928
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 9:
+  Best Fitness: 0.3319
+  Avg Fitness: 0.3114 ± 0.0153
+  Median Fitness: 0.3145
+  Min Fitness: 0.2685
+  Population Size: 161
+  Best Quality: 0.3319
+  Avg Quality: 0.3114
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3863
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 10:
+  Best Fitness: 0.3319
+  Avg Fitness: 0.3119 ± 0.0154
+  Median Fitness: 0.3163
+  Min Fitness: 0.2685
+  Population Size: 164
+  Best Quality: 0.3319
+  Avg Quality: 0.3119
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3839
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 11:
+  Best Fitness: 0.3326
+  Avg Fitness: 0.3130 ± 0.0152
+  Median Fitness: 0.3173
+  Min Fitness: 0.2685
+  Population Size: 168
+  Best Quality: 0.3326
+  Avg Quality: 0.3130
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3785
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 12:
+  Best Fitness: 0.3326
+  Avg Fitness: 0.3136 ± 0.0154
+  Median Fitness: 0.3179
+  Min Fitness: 0.2685
+  Population Size: 168
+  Best Quality: 0.3326
+  Avg Quality: 0.3136
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3734
+  Best Controlability: 0.0000
+  Avg Controlability: 0.0000
+
+
+Generation 13:
+  Best Fitness: 0.9840
+  Avg Fitness: 0.3180 ± 0.0529
+  Median Fitness: 0.3186
+  Min Fitness: 0.2685
+  Population Size: 174
+  Best Quality: 0.9840
+  Avg Quality: 0.3180
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3708
+  Best Controlability: 0.7500
+  Avg Controlability: 0.0043
+
+
+Generation 14:
+  Best Fitness: 0.9840
+  Avg Fitness: 0.3187 ± 0.0525
+  Median Fitness: 0.3208
+  Min Fitness: 0.2685
+  Population Size: 177
+  Best Quality: 0.9840
+  Avg Quality: 0.3187
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3677
+  Best Controlability: 0.7500
+  Avg Controlability: 0.0042
+
+
+Generation 15:
+  Best Fitness: 0.9854
+  Avg Fitness: 0.3230 ± 0.0722
+  Median Fitness: 0.3218
+  Min Fitness: 0.2685
+  Population Size: 178
+  Best Quality: 0.9854
+  Avg Quality: 0.3230
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3668
+  Best Controlability: 0.7885
+  Avg Controlability: 0.0086
+
+
+Generation 16:
+  Best Fitness: 0.9854
+  Avg Fitness: 0.3234 ± 0.0721
+  Median Fitness: 0.3222
+  Min Fitness: 0.2685
+  Population Size: 179
+  Best Quality: 0.9854
+  Avg Quality: 0.3234
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3622
+  Best Controlability: 0.7885
+  Avg Controlability: 0.0086
+
+
+Generation 17:
+  Best Fitness: 0.9854
+  Avg Fitness: 0.3350 ± 0.1110
+  Median Fitness: 0.3239
+  Min Fitness: 0.2685
+  Population Size: 180
+  Best Quality: 0.9854
+  Avg Quality: 0.3350
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3617
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0210
+
+
+Generation 18:
+  Best Fitness: 0.9854
+  Avg Fitness: 0.3392 ± 0.1206
+  Median Fitness: 0.3250
+  Min Fitness: 0.2685
+  Population Size: 181
+  Best Quality: 0.9854
+  Avg Quality: 0.3392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3627
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0255
+
+
+Generation 19:
+  Best Fitness: 0.9917
+  Avg Fitness: 0.3495 ± 0.1428
+  Median Fitness: 0.3263
+  Min Fitness: 0.2685
+  Population Size: 183
+  Best Quality: 0.9917
+  Avg Quality: 0.3495
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3653
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0338
+
+
+Generation 20:
+  Best Fitness: 0.9917
+  Avg Fitness: 0.3498 ± 0.1419
+  Median Fitness: 0.3270
+  Min Fitness: 0.2618
+  Population Size: 185
+  Best Quality: 0.9917
+  Avg Quality: 0.3498
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3660
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0335
+
+
+Generation 21:
+  Best Fitness: 0.9917
+  Avg Fitness: 0.3769 ± 0.1857
+  Median Fitness: 0.3277
+  Min Fitness: 0.2748
+  Population Size: 187
+  Best Quality: 0.9917
+  Avg Quality: 0.3769
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3646
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0567
+
+
+Generation 22:
+  Best Fitness: 0.9917
+  Avg Fitness: 0.3887 ± 0.1996
+  Median Fitness: 0.3284
+  Min Fitness: 0.2748
+  Population Size: 188
+  Best Quality: 0.9917
+  Avg Quality: 0.3887
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3715
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0624
+
+
+Generation 23:
+  Best Fitness: 0.9917
+  Avg Fitness: 0.3977 ± 0.2104
+  Median Fitness: 0.3291
+  Min Fitness: 0.2748
+  Population Size: 189
+  Best Quality: 0.9917
+  Avg Quality: 0.3977
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3737
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0740
+
+
+Generation 24:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4139 ± 0.2266
+  Median Fitness: 0.3298
+  Min Fitness: 0.2748
+  Population Size: 192
+  Best Quality: 0.9937
+  Avg Quality: 0.4139
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3710
+  Best Controlability: 1.0000
+  Avg Controlability: 0.0875
+
+
+Generation 25:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4266 ± 0.2389
+  Median Fitness: 0.3298
+  Min Fitness: 0.2748
+  Population Size: 194
+  Best Quality: 0.9937
+  Avg Quality: 0.4266
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3812
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1011
+
+
+Generation 26:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4367 ± 0.2485
+  Median Fitness: 0.3298
+  Min Fitness: 0.2748
+  Population Size: 195
+  Best Quality: 0.9937
+  Avg Quality: 0.4367
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3871
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1110
+
+
+Generation 27:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4408 ± 0.2515
+  Median Fitness: 0.3298
+  Min Fitness: 0.2540
+  Population Size: 198
+  Best Quality: 0.9937
+  Avg Quality: 0.4408
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3860
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1081
+
+
+Generation 28:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4527 ± 0.2609
+  Median Fitness: 0.3305
+  Min Fitness: 0.2540
+  Population Size: 199
+  Best Quality: 0.9937
+  Avg Quality: 0.4527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3989
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1217
+
+
+Generation 29:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4595 ± 0.2651
+  Median Fitness: 0.3305
+  Min Fitness: 0.2660
+  Population Size: 200
+  Best Quality: 0.9937
+  Avg Quality: 0.4595
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3972
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1321
+
+
+Generation 30:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4708 ± 0.2735
+  Median Fitness: 0.3305
+  Min Fitness: 0.1797
+  Population Size: 202
+  Best Quality: 0.9937
+  Avg Quality: 0.4708
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4006
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1394
+
+
+Generation 31:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4791 ± 0.2781
+  Median Fitness: 0.3305
+  Min Fitness: 0.2520
+  Population Size: 203
+  Best Quality: 0.9937
+  Avg Quality: 0.4791
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4082
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1443
+
+
+Generation 32:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4872 ± 0.2834
+  Median Fitness: 0.3305
+  Min Fitness: 0.2520
+  Population Size: 206
+  Best Quality: 0.9937
+  Avg Quality: 0.4872
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4059
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1550
+
+
+Generation 33:
+  Best Fitness: 0.9937
+  Avg Fitness: 0.4921 ± 0.2860
+  Median Fitness: 0.3309
+  Min Fitness: 0.2520
+  Population Size: 208
+  Best Quality: 0.9937
+  Avg Quality: 0.4921
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3985
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1591
+
+
+Generation 34:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.4952 ± 0.2885
+  Median Fitness: 0.3312
+  Min Fitness: 0.2520
+  Population Size: 211
+  Best Quality: 0.9986
+  Avg Quality: 0.4952
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3865
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1624
+
+
+Generation 35:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5004 ± 0.2909
+  Median Fitness: 0.3312
+  Min Fitness: 0.2520
+  Population Size: 213
+  Best Quality: 0.9986
+  Avg Quality: 0.5004
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3893
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1700
+
+
+Generation 36:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5151 ± 0.2980
+  Median Fitness: 0.3312
+  Min Fitness: 0.2520
+  Population Size: 214
+  Best Quality: 0.9986
+  Avg Quality: 0.5151
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3935
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1855
+
+
+Generation 37:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5280 ± 0.3036
+  Median Fitness: 0.3319
+  Min Fitness: 0.2520
+  Population Size: 216
+  Best Quality: 0.9986
+  Avg Quality: 0.5280
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3933
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1966
+
+
+Generation 38:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5369 ± 0.3071
+  Median Fitness: 0.3319
+  Min Fitness: 0.2520
+  Population Size: 219
+  Best Quality: 0.9986
+  Avg Quality: 0.5369
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3910
+  Best Controlability: 1.0000
+  Avg Controlability: 0.1956
+
+
+Generation 39:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5437 ± 0.3099
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 221
+  Best Quality: 0.9986
+  Avg Quality: 0.5437
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3891
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2028
+
+
+Generation 40:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5500 ± 0.3119
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 221
+  Best Quality: 0.9986
+  Avg Quality: 0.5500
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3897
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2080
+
+
+Generation 41:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5474 ± 0.3117
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 223
+  Best Quality: 0.9986
+  Avg Quality: 0.5474
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3948
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2105
+
+
+Generation 42:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5552 ± 0.3139
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 225
+  Best Quality: 0.9986
+  Avg Quality: 0.5552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4061
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2224
+
+
+Generation 43:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5542 ± 0.3136
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 226
+  Best Quality: 0.9986
+  Avg Quality: 0.5542
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4057
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2209
+
+
+Generation 44:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5575 ± 0.3142
+  Median Fitness: 0.3319
+  Min Fitness: 0.2493
+  Population Size: 226
+  Best Quality: 0.9986
+  Avg Quality: 0.5575
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4103
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2235
+
+
+Generation 45:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5588 ± 0.3144
+  Median Fitness: 0.3319
+  Min Fitness: 0.2520
+  Population Size: 226
+  Best Quality: 0.9986
+  Avg Quality: 0.5588
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4046
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2222
+
+
+Generation 46:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5579 ± 0.3151
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 229
+  Best Quality: 0.9986
+  Avg Quality: 0.5579
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3998
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2261
+
+
+Generation 47:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5666 ± 0.3183
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 230
+  Best Quality: 0.9986
+  Avg Quality: 0.5666
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4049
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2334
+
+
+Generation 48:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5656 ± 0.3181
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 231
+  Best Quality: 0.9986
+  Avg Quality: 0.5656
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4036
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2325
+
+
+Generation 49:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5661 ± 0.3178
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 236
+  Best Quality: 0.9986
+  Avg Quality: 0.5661
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4005
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2318
+
+
+Generation 50:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5655 ± 0.3173
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 237
+  Best Quality: 0.9986
+  Avg Quality: 0.5655
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3961
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2268
+
+
+Generation 51:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5684 ± 0.3181
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 237
+  Best Quality: 0.9986
+  Avg Quality: 0.5684
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3947
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2285
+
+
+Generation 52:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5720 ± 0.3195
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 237
+  Best Quality: 0.9986
+  Avg Quality: 0.5720
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3977
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2301
+
+
+Generation 53:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5710 ± 0.3192
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 238
+  Best Quality: 0.9986
+  Avg Quality: 0.5710
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4002
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2296
+
+
+Generation 54:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5700 ± 0.3191
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 239
+  Best Quality: 0.9986
+  Avg Quality: 0.5700
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4024
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2260
+
+
+Generation 55:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5732 ± 0.3204
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 241
+  Best Quality: 0.9986
+  Avg Quality: 0.5732
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4135
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2253
+
+
+Generation 56:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5736 ± 0.3203
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 243
+  Best Quality: 0.9986
+  Avg Quality: 0.5736
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4081
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2230
+
+
+Generation 57:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5736 ± 0.3203
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 243
+  Best Quality: 0.9986
+  Avg Quality: 0.5736
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4073
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2221
+
+
+Generation 58:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5737 ± 0.3204
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 243
+  Best Quality: 0.9986
+  Avg Quality: 0.5737
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4066
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2184
+
+
+Generation 59:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5754 ± 0.3208
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 244
+  Best Quality: 0.9986
+  Avg Quality: 0.5754
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4060
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2148
+
+
+Generation 60:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5745 ± 0.3207
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 245
+  Best Quality: 0.9986
+  Avg Quality: 0.5745
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3995
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2128
+
+
+Generation 61:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5764 ± 0.3220
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 246
+  Best Quality: 0.9986
+  Avg Quality: 0.5764
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3928
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2104
+
+
+Generation 62:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5772 ± 0.3217
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 246
+  Best Quality: 0.9986
+  Avg Quality: 0.5772
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3890
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2098
+
+
+Generation 63:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5790 ± 0.3217
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 247
+  Best Quality: 0.9986
+  Avg Quality: 0.5790
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3917
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2083
+
+
+Generation 64:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5791 ± 0.3216
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 247
+  Best Quality: 0.9986
+  Avg Quality: 0.5791
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3907
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2085
+
+
+Generation 65:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5805 ± 0.3223
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 248
+  Best Quality: 0.9986
+  Avg Quality: 0.5805
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3962
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2074
+
+
+Generation 66:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5797 ± 0.3220
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 249
+  Best Quality: 0.9986
+  Avg Quality: 0.5797
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3955
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2023
+
+
+Generation 67:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5852 ± 0.3229
+  Median Fitness: 0.3319
+  Min Fitness: 0.2486
+  Population Size: 249
+  Best Quality: 0.9986
+  Avg Quality: 0.5852
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3978
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2065
+
+
+Generation 68:
+  Best Fitness: 0.9986
+  Avg Fitness: 0.5901 ± 0.3236
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 249
+  Best Quality: 0.9986
+  Avg Quality: 0.5901
+  Best Diversity: 1.0000
+  Avg Diversity: 0.3989
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2084
+
+
+Generation 69:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.5953 ± 0.3244
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 249
+  Best Quality: 1.0000
+  Avg Quality: 0.5953
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4045
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2110
+
+
+Generation 70:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.5954 ± 0.3244
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 249
+  Best Quality: 1.0000
+  Avg Quality: 0.5954
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4061
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2097
+
+
+Generation 71:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.5970 ± 0.3246
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 250
+  Best Quality: 1.0000
+  Avg Quality: 0.5970
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4091
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2098
+
+
+Generation 72:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.5997 ± 0.3252
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 250
+  Best Quality: 1.0000
+  Avg Quality: 0.5997
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4091
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2135
+
+
+Generation 73:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6012 ± 0.3256
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 251
+  Best Quality: 1.0000
+  Avg Quality: 0.6012
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4012
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2166
+
+
+Generation 74:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6013 ± 0.3256
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 251
+  Best Quality: 1.0000
+  Avg Quality: 0.6013
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4040
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2166
+
+
+Generation 75:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6016 ± 0.3256
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 253
+  Best Quality: 1.0000
+  Avg Quality: 0.6016
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4007
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2164
+
+
+Generation 76:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6042 ± 0.3259
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 253
+  Best Quality: 1.0000
+  Avg Quality: 0.6042
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4043
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2204
+
+
+Generation 77:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6073 ± 0.3255
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 254
+  Best Quality: 1.0000
+  Avg Quality: 0.6073
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4033
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2249
+
+
+Generation 78:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6109 ± 0.3257
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 255
+  Best Quality: 1.0000
+  Avg Quality: 0.6109
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4018
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2262
+
+
+Generation 79:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6137 ± 0.3260
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 257
+  Best Quality: 1.0000
+  Avg Quality: 0.6137
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4037
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2310
+
+
+Generation 80:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6170 ± 0.3259
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 257
+  Best Quality: 1.0000
+  Avg Quality: 0.6170
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4031
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2320
+
+
+Generation 81:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6195 ± 0.3271
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 257
+  Best Quality: 1.0000
+  Avg Quality: 0.6195
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4120
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2317
+
+
+Generation 82:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6195 ± 0.3271
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 257
+  Best Quality: 1.0000
+  Avg Quality: 0.6195
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4129
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2317
+
+
+Generation 83:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6258 ± 0.3276
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 258
+  Best Quality: 1.0000
+  Avg Quality: 0.6258
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4161
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2380
+
+
+Generation 84:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6261 ± 0.3274
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 258
+  Best Quality: 1.0000
+  Avg Quality: 0.6261
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4204
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2380
+
+
+Generation 85:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6275 ± 0.3276
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 259
+  Best Quality: 1.0000
+  Avg Quality: 0.6275
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4201
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2393
+
+
+Generation 86:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6269 ± 0.3280
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 260
+  Best Quality: 1.0000
+  Avg Quality: 0.6269
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2400
+
+
+Generation 87:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6260 ± 0.3283
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 261
+  Best Quality: 1.0000
+  Avg Quality: 0.6260
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4239
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2396
+
+
+Generation 88:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6259 ± 0.3285
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 263
+  Best Quality: 1.0000
+  Avg Quality: 0.6259
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4227
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2416
+
+
+Generation 89:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6281 ± 0.3285
+  Median Fitness: 0.3326
+  Min Fitness: 0.2486
+  Population Size: 263
+  Best Quality: 1.0000
+  Avg Quality: 0.6281
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4217
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2429
+
+
+Generation 90:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6268 ± 0.3286
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6268
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2420
+
+
+Generation 91:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6269 ± 0.3285
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6269
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4192
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2420
+
+
+Generation 92:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6269 ± 0.3285
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6269
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4192
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2420
+
+
+Generation 93:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6295 ± 0.3288
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6295
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4210
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2398
+
+
+Generation 94:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6299 ± 0.3292
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6299
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4236
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2429
+
+
+Generation 95:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6324 ± 0.3294
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 264
+  Best Quality: 1.0000
+  Avg Quality: 0.6324
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4237
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2450
+
+
+Generation 96:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6339 ± 0.3295
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 265
+  Best Quality: 1.0000
+  Avg Quality: 0.6339
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4231
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2427
+
+
+Generation 97:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6384 ± 0.3294
+  Median Fitness: 0.3326
+  Min Fitness: 0.2451
+  Population Size: 266
+  Best Quality: 1.0000
+  Avg Quality: 0.6384
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2438
+
+
+Generation 98:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6422 ± 0.3295
+  Median Fitness: 0.4808
+  Min Fitness: 0.2451
+  Population Size: 267
+  Best Quality: 1.0000
+  Avg Quality: 0.6422
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4210
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2472
+
+
+Generation 99:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6425 ± 0.3292
+  Median Fitness: 0.4808
+  Min Fitness: 0.2451
+  Population Size: 267
+  Best Quality: 1.0000
+  Avg Quality: 0.6425
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4199
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2472
+
+
+Generation 100:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6462 ± 0.3294
+  Median Fitness: 0.4863
+  Min Fitness: 0.2451
+  Population Size: 268
+  Best Quality: 1.0000
+  Avg Quality: 0.6462
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4191
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2524
+
+
+Generation 101:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6488 ± 0.3296
+  Median Fitness: 0.4911
+  Min Fitness: 0.2451
+  Population Size: 268
+  Best Quality: 1.0000
+  Avg Quality: 0.6488
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4167
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2542
+
+
+Generation 102:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6490 ± 0.3293
+  Median Fitness: 0.4911
+  Min Fitness: 0.2451
+  Population Size: 268
+  Best Quality: 1.0000
+  Avg Quality: 0.6490
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4146
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2542
+
+
+Generation 103:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6490 ± 0.3293
+  Median Fitness: 0.4911
+  Min Fitness: 0.2451
+  Population Size: 268
+  Best Quality: 1.0000
+  Avg Quality: 0.6490
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4147
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2557
+
+
+Generation 104:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6491 ± 0.3294
+  Median Fitness: 0.4911
+  Min Fitness: 0.2451
+  Population Size: 268
+  Best Quality: 1.0000
+  Avg Quality: 0.6491
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4145
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2516
+
+
+Generation 105:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6479 ± 0.3294
+  Median Fitness: 0.4876
+  Min Fitness: 0.2451
+  Population Size: 269
+  Best Quality: 1.0000
+  Avg Quality: 0.6479
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4132
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2488
+
+
+Generation 106:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6480 ± 0.3294
+  Median Fitness: 0.4876
+  Min Fitness: 0.2451
+  Population Size: 269
+  Best Quality: 1.0000
+  Avg Quality: 0.6480
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4175
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2488
+
+
+Generation 107:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6480 ± 0.3295
+  Median Fitness: 0.4876
+  Min Fitness: 0.2451
+  Population Size: 269
+  Best Quality: 1.0000
+  Avg Quality: 0.6480
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4174
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2488
+
+
+Generation 108:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6458 ± 0.3292
+  Median Fitness: 0.4850
+  Min Fitness: 0.2451
+  Population Size: 271
+  Best Quality: 1.0000
+  Avg Quality: 0.6458
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4210
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2436
+
+
+Generation 109:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6526 ± 0.3300
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 271
+  Best Quality: 1.0000
+  Avg Quality: 0.6526
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4207
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2501
+
+
+Generation 110:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6512 ± 0.3302
+  Median Fitness: 0.4912
+  Min Fitness: 0.2451
+  Population Size: 272
+  Best Quality: 1.0000
+  Avg Quality: 0.6512
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4146
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2450
+
+
+Generation 111:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6525 ± 0.3303
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 273
+  Best Quality: 1.0000
+  Avg Quality: 0.6525
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4217
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2459
+
+
+Generation 112:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6549 ± 0.3303
+  Median Fitness: 0.8500
+  Min Fitness: 0.2451
+  Population Size: 273
+  Best Quality: 1.0000
+  Avg Quality: 0.6549
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4193
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2469
+
+
+Generation 113:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6574 ± 0.3303
+  Median Fitness: 0.8611
+  Min Fitness: 0.2451
+  Population Size: 273
+  Best Quality: 1.0000
+  Avg Quality: 0.6574
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4191
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2487
+
+
+Generation 114:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6550 ± 0.3304
+  Median Fitness: 0.8500
+  Min Fitness: 0.2451
+  Population Size: 275
+  Best Quality: 1.0000
+  Avg Quality: 0.6550
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4153
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2469
+
+
+Generation 115:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6550 ± 0.3304
+  Median Fitness: 0.8500
+  Min Fitness: 0.2451
+  Population Size: 275
+  Best Quality: 1.0000
+  Avg Quality: 0.6550
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4149
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2466
+
+
+Generation 116:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6527 ± 0.3303
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 277
+  Best Quality: 1.0000
+  Avg Quality: 0.6527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4141
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2451
+
+
+Generation 117:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6527 ± 0.3303
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 277
+  Best Quality: 1.0000
+  Avg Quality: 0.6527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4148
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2398
+
+
+Generation 118:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6527 ± 0.3303
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 277
+  Best Quality: 1.0000
+  Avg Quality: 0.6527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4148
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2398
+
+
+Generation 119:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6528 ± 0.3303
+  Median Fitness: 0.4948
+  Min Fitness: 0.2451
+  Population Size: 277
+  Best Quality: 1.0000
+  Avg Quality: 0.6528
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4093
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2403
+
+
+Generation 120:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6514 ± 0.3306
+  Median Fitness: 0.4912
+  Min Fitness: 0.2451
+  Population Size: 280
+  Best Quality: 1.0000
+  Avg Quality: 0.6514
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4132
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2377
+
+
+Generation 121:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6559 ± 0.3305
+  Median Fitness: 0.8556
+  Min Fitness: 0.2451
+  Population Size: 280
+  Best Quality: 1.0000
+  Avg Quality: 0.6559
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4119
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2422
+
+
+Generation 122:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6562 ± 0.3303
+  Median Fitness: 0.8556
+  Min Fitness: 0.2451
+  Population Size: 280
+  Best Quality: 1.0000
+  Avg Quality: 0.6562
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4076
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2416
+
+
+Generation 123:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6548 ± 0.3305
+  Median Fitness: 0.8500
+  Min Fitness: 0.2451
+  Population Size: 281
+  Best Quality: 1.0000
+  Avg Quality: 0.6548
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4099
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2407
+
+
+Generation 124:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6571 ± 0.3306
+  Median Fitness: 0.8611
+  Min Fitness: 0.2451
+  Population Size: 281
+  Best Quality: 1.0000
+  Avg Quality: 0.6571
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4131
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2410
+
+
+Generation 125:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6557 ± 0.3309
+  Median Fitness: 0.8556
+  Min Fitness: 0.2451
+  Population Size: 282
+  Best Quality: 1.0000
+  Avg Quality: 0.6557
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4126
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2401
+
+
+Generation 126:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6580 ± 0.3309
+  Median Fitness: 0.8615
+  Min Fitness: 0.2451
+  Population Size: 284
+  Best Quality: 1.0000
+  Avg Quality: 0.6580
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4129
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2438
+
+
+Generation 127:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6581 ± 0.3309
+  Median Fitness: 0.8615
+  Min Fitness: 0.2451
+  Population Size: 284
+  Best Quality: 1.0000
+  Avg Quality: 0.6581
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4144
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2428
+
+
+Generation 128:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6627 ± 0.3309
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 284
+  Best Quality: 1.0000
+  Avg Quality: 0.6627
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4153
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2455
+
+
+Generation 129:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6619 ± 0.3312
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 285
+  Best Quality: 1.0000
+  Avg Quality: 0.6619
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4179
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2453
+
+
+Generation 130:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6641 ± 0.3310
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 285
+  Best Quality: 1.0000
+  Avg Quality: 0.6641
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4207
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2482
+
+
+Generation 131:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6656 ± 0.3309
+  Median Fitness: 0.9080
+  Min Fitness: 0.2451
+  Population Size: 286
+  Best Quality: 1.0000
+  Avg Quality: 0.6656
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4231
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2481
+
+
+Generation 132:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6658 ± 0.3307
+  Median Fitness: 0.9080
+  Min Fitness: 0.2451
+  Population Size: 286
+  Best Quality: 1.0000
+  Avg Quality: 0.6658
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4207
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2492
+
+
+Generation 133:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6645 ± 0.3310
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 287
+  Best Quality: 1.0000
+  Avg Quality: 0.6645
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2484
+
+
+Generation 134:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6633 ± 0.3310
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 288
+  Best Quality: 1.0000
+  Avg Quality: 0.6633
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4158
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2475
+
+
+Generation 135:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3314
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 289
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4155
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2480
+
+
+Generation 136:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3314
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 289
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2480
+
+
+Generation 137:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3314
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 289
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2480
+
+
+Generation 138:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3315
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 289
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4195
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2485
+
+
+Generation 139:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6632 ± 0.3315
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 290
+  Best Quality: 1.0000
+  Avg Quality: 0.6632
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4218
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2493
+
+
+Generation 140:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3315
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 291
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2485
+
+
+Generation 141:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3315
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 291
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2485
+
+
+Generation 142:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6620 ± 0.3316
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 291
+  Best Quality: 1.0000
+  Avg Quality: 0.6620
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4236
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2472
+
+
+Generation 143:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6646 ± 0.3313
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6646
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4270
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2479
+
+
+Generation 144:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6668 ± 0.3312
+  Median Fitness: 0.9080
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6668
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4267
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2479
+
+
+Generation 145:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6691 ± 0.3311
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6691
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2525
+
+
+Generation 146:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6691 ± 0.3311
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6691
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2525
+
+
+Generation 147:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6691 ± 0.3311
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6691
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4262
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2539
+
+
+Generation 148:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6692 ± 0.3312
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 292
+  Best Quality: 1.0000
+  Avg Quality: 0.6692
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4243
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2522
+
+
+Generation 149:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6677 ± 0.3315
+  Median Fitness: 0.9160
+  Min Fitness: 0.2451
+  Population Size: 293
+  Best Quality: 1.0000
+  Avg Quality: 0.6677
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4257
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2513
+
+
+Generation 150:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6689 ± 0.3315
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 294
+  Best Quality: 1.0000
+  Avg Quality: 0.6689
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4285
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2472
+
+
+Generation 151:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6693 ± 0.3319
+  Median Fitness: 0.9319
+  Min Fitness: 0.2451
+  Population Size: 294
+  Best Quality: 1.0000
+  Avg Quality: 0.6693
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2455
+
+
+Generation 152:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6682 ± 0.3320
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6682
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4300
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2446
+
+
+Generation 153:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6682 ± 0.3320
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6682
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4300
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2446
+
+
+Generation 154:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6701 ± 0.3316
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6701
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4302
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2478
+
+
+Generation 155:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6701 ± 0.3317
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6701
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4290
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2495
+
+
+Generation 156:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6701 ± 0.3317
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6701
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4290
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2495
+
+
+Generation 157:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6702 ± 0.3317
+  Median Fitness: 0.9306
+  Min Fitness: 0.2451
+  Population Size: 295
+  Best Quality: 1.0000
+  Avg Quality: 0.6702
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2477
+
+
+Generation 158:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6690 ± 0.3317
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 296
+  Best Quality: 1.0000
+  Avg Quality: 0.6690
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4288
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2468
+
+
+Generation 159:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6694 ± 0.3317
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 296
+  Best Quality: 1.0000
+  Avg Quality: 0.6694
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4238
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 160:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6683 ± 0.3317
+  Median Fitness: 0.9160
+  Min Fitness: 0.2451
+  Population Size: 297
+  Best Quality: 1.0000
+  Avg Quality: 0.6683
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4232
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2466
+
+
+Generation 161:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6683 ± 0.3318
+  Median Fitness: 0.9160
+  Min Fitness: 0.2451
+  Population Size: 297
+  Best Quality: 1.0000
+  Avg Quality: 0.6683
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4260
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2446
+
+
+Generation 162:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6683 ± 0.3318
+  Median Fitness: 0.9160
+  Min Fitness: 0.2451
+  Population Size: 297
+  Best Quality: 1.0000
+  Avg Quality: 0.6683
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4229
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2452
+
+
+Generation 163:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6661 ± 0.3318
+  Median Fitness: 0.9000
+  Min Fitness: 0.2451
+  Population Size: 299
+  Best Quality: 1.0000
+  Avg Quality: 0.6661
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4242
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2436
+
+
+Generation 164:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6670 ± 0.3317
+  Median Fitness: 0.9080
+  Min Fitness: 0.2451
+  Population Size: 300
+  Best Quality: 1.0000
+  Avg Quality: 0.6670
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4256
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2442
+
+
+Generation 165:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6681 ± 0.3316
+  Median Fitness: 0.9233
+  Min Fitness: 0.2451
+  Population Size: 300
+  Best Quality: 1.0000
+  Avg Quality: 0.6681
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4257
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2470
+
+
+Generation 166:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6703 ± 0.3316
+  Median Fitness: 0.9319
+  Min Fitness: 0.2451
+  Population Size: 300
+  Best Quality: 1.0000
+  Avg Quality: 0.6703
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4257
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2487
+
+
+Generation 167:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6703 ± 0.3316
+  Median Fitness: 0.9319
+  Min Fitness: 0.2451
+  Population Size: 300
+  Best Quality: 1.0000
+  Avg Quality: 0.6703
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4234
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2487
+
+
+Generation 168:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6708 ± 0.3320
+  Median Fitness: 0.9333
+  Min Fitness: 0.2451
+  Population Size: 301
+  Best Quality: 1.0000
+  Avg Quality: 0.6708
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4252
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2433
+
+
+Generation 169:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6730 ± 0.3320
+  Median Fitness: 0.9417
+  Min Fitness: 0.2451
+  Population Size: 301
+  Best Quality: 1.0000
+  Avg Quality: 0.6730
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4252
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2467
+
+
+Generation 170:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6720 ± 0.3321
+  Median Fitness: 0.9375
+  Min Fitness: 0.2451
+  Population Size: 302
+  Best Quality: 1.0000
+  Avg Quality: 0.6720
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4262
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2466
+
+
+Generation 171:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6732 ± 0.3320
+  Median Fitness: 0.9417
+  Min Fitness: 0.2451
+  Population Size: 303
+  Best Quality: 1.0000
+  Avg Quality: 0.6732
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4230
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2458
+
+
+Generation 172:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6719 ± 0.3323
+  Median Fitness: 0.9375
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6719
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4229
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2462
+
+
+Generation 173:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6740 ± 0.3322
+  Median Fitness: 0.9437
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6740
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4222
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 174:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6740 ± 0.3322
+  Median Fitness: 0.9437
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6740
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4222
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 175:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6741 ± 0.3322
+  Median Fitness: 0.9437
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6741
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4198
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 176:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6763 ± 0.3321
+  Median Fitness: 0.9500
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6763
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4178
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 177:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6763 ± 0.3321
+  Median Fitness: 0.9500
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6763
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4178
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 178:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6785 ± 0.3320
+  Median Fitness: 0.9556
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6785
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4178
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 179:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6785 ± 0.3320
+  Median Fitness: 0.9556
+  Min Fitness: 0.2451
+  Population Size: 304
+  Best Quality: 1.0000
+  Avg Quality: 0.6785
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4178
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2474
+
+
+Generation 180:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6816 ± 0.3313
+  Median Fitness: 0.9569
+  Min Fitness: 0.2451
+  Population Size: 305
+  Best Quality: 1.0000
+  Avg Quality: 0.6816
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4193
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2502
+
+
+Generation 181:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6839 ± 0.3313
+  Median Fitness: 0.9639
+  Min Fitness: 0.2451
+  Population Size: 305
+  Best Quality: 1.0000
+  Avg Quality: 0.6839
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4200
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2502
+
+
+Generation 182:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6861 ± 0.3311
+  Median Fitness: 0.9667
+  Min Fitness: 0.2451
+  Population Size: 305
+  Best Quality: 1.0000
+  Avg Quality: 0.6861
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4220
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2518
+
+
+Generation 183:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6861 ± 0.3311
+  Median Fitness: 0.9667
+  Min Fitness: 0.2451
+  Population Size: 305
+  Best Quality: 1.0000
+  Avg Quality: 0.6861
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2518
+
+
+Generation 184:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6838 ± 0.3313
+  Median Fitness: 0.9639
+  Min Fitness: 0.2451
+  Population Size: 307
+  Best Quality: 1.0000
+  Avg Quality: 0.6838
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4200
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2518
+
+
+Generation 185:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6816 ± 0.3316
+  Median Fitness: 0.9576
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6816
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4189
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2512
+
+
+Generation 186:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6816 ± 0.3316
+  Median Fitness: 0.9576
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6816
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4189
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2512
+
+
+Generation 187:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6816 ± 0.3317
+  Median Fitness: 0.9576
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6816
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4163
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2512
+
+
+Generation 188:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6816 ± 0.3317
+  Median Fitness: 0.9576
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6816
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4163
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2512
+
+
+Generation 189:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6837 ± 0.3315
+  Median Fitness: 0.9667
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6837
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4163
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2529
+
+
+Generation 190:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6837 ± 0.3315
+  Median Fitness: 0.9667
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6837
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2515
+
+
+Generation 191:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6837 ± 0.3315
+  Median Fitness: 0.9667
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6837
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4191
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2517
+
+
+Generation 192:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6838 ± 0.3315
+  Median Fitness: 0.9667
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6838
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2520
+
+
+Generation 193:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6838 ± 0.3316
+  Median Fitness: 0.9667
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6838
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2517
+
+
+Generation 194:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6840 ± 0.3317
+  Median Fitness: 0.9681
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6840
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4220
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2525
+
+
+Generation 195:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6841 ± 0.3318
+  Median Fitness: 0.9681
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6841
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2524
+
+
+Generation 196:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6845 ± 0.3321
+  Median Fitness: 0.9687
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6845
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4234
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2540
+
+
+Generation 197:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6845 ± 0.3321
+  Median Fitness: 0.9687
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6845
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4234
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2540
+
+
+Generation 198:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6867 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6867
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4218
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2559
+
+
+Generation 199:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6867 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6867
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4216
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2559
+
+
+Generation 200:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6867 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6867
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4216
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2549
+
+
+Generation 201:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6868 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6868
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4211
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2550
+
+
+Generation 202:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6868 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6868
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4211
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2550
+
+
+Generation 203:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6868 ± 0.3319
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 309
+  Best Quality: 1.0000
+  Avg Quality: 0.6868
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4211
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2550
+
+
+Generation 204:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6875 ± 0.3317
+  Median Fitness: 0.9691
+  Min Fitness: 0.1875
+  Population Size: 310
+  Best Quality: 1.0000
+  Avg Quality: 0.6875
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2547
+
+
+Generation 205:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6876 ± 0.3318
+  Median Fitness: 0.9691
+  Min Fitness: 0.1875
+  Population Size: 310
+  Best Quality: 1.0000
+  Avg Quality: 0.6876
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4240
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2539
+
+
+Generation 206:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6876 ± 0.3318
+  Median Fitness: 0.9691
+  Min Fitness: 0.1875
+  Population Size: 310
+  Best Quality: 1.0000
+  Avg Quality: 0.6876
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4218
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2555
+
+
+Generation 207:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6876 ± 0.3318
+  Median Fitness: 0.9691
+  Min Fitness: 0.1875
+  Population Size: 310
+  Best Quality: 1.0000
+  Avg Quality: 0.6876
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4216
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2555
+
+
+Generation 208:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6866 ± 0.3320
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 311
+  Best Quality: 1.0000
+  Avg Quality: 0.6866
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4214
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2575
+
+
+Generation 209:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6866 ± 0.3320
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 311
+  Best Quality: 1.0000
+  Avg Quality: 0.6866
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4211
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2575
+
+
+Generation 210:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6894 ± 0.3314
+  Median Fitness: 0.9705
+  Min Fitness: 0.1875
+  Population Size: 312
+  Best Quality: 1.0000
+  Avg Quality: 0.6894
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4208
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2590
+
+
+Generation 211:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6881 ± 0.3318
+  Median Fitness: 0.9694
+  Min Fitness: 0.1875
+  Population Size: 313
+  Best Quality: 1.0000
+  Avg Quality: 0.6881
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2582
+
+
+Generation 212:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6902 ± 0.3317
+  Median Fitness: 0.9715
+  Min Fitness: 0.1875
+  Population Size: 313
+  Best Quality: 1.0000
+  Avg Quality: 0.6902
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4215
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2578
+
+
+Generation 213:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6924 ± 0.3315
+  Median Fitness: 0.9729
+  Min Fitness: 0.1875
+  Population Size: 313
+  Best Quality: 1.0000
+  Avg Quality: 0.6924
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4214
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2590
+
+
+Generation 214:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6954 ± 0.3312
+  Median Fitness: 0.9736
+  Min Fitness: 0.1875
+  Population Size: 314
+  Best Quality: 1.0000
+  Avg Quality: 0.6954
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4209
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2601
+
+
+Generation 215:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6975 ± 0.3310
+  Median Fitness: 0.9740
+  Min Fitness: 0.1875
+  Population Size: 314
+  Best Quality: 1.0000
+  Avg Quality: 0.6975
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4210
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2617
+
+
+Generation 216:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6975 ± 0.3310
+  Median Fitness: 0.9740
+  Min Fitness: 0.1875
+  Population Size: 314
+  Best Quality: 1.0000
+  Avg Quality: 0.6975
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4213
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2623
+
+
+Generation 217:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6996 ± 0.3307
+  Median Fitness: 0.9747
+  Min Fitness: 0.1875
+  Population Size: 314
+  Best Quality: 1.0000
+  Avg Quality: 0.6996
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4208
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2648
+
+
+Generation 218:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6996 ± 0.3307
+  Median Fitness: 0.9747
+  Min Fitness: 0.1875
+  Population Size: 314
+  Best Quality: 1.0000
+  Avg Quality: 0.6996
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4208
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2648
+
+
+Generation 219:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6984 ± 0.3308
+  Median Fitness: 0.9743
+  Min Fitness: 0.1875
+  Population Size: 315
+  Best Quality: 1.0000
+  Avg Quality: 0.6984
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4206
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2639
+
+
+Generation 220:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6984 ± 0.3308
+  Median Fitness: 0.9743
+  Min Fitness: 0.1875
+  Population Size: 315
+  Best Quality: 1.0000
+  Avg Quality: 0.6984
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4206
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2639
+
+
+Generation 221:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6984 ± 0.3308
+  Median Fitness: 0.9743
+  Min Fitness: 0.1875
+  Population Size: 315
+  Best Quality: 1.0000
+  Avg Quality: 0.6984
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4185
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2639
+
+
+Generation 222:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6973 ± 0.3310
+  Median Fitness: 0.9740
+  Min Fitness: 0.1875
+  Population Size: 316
+  Best Quality: 1.0000
+  Avg Quality: 0.6973
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4142
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2622
+
+
+Generation 223:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6973 ± 0.3310
+  Median Fitness: 0.9740
+  Min Fitness: 0.1875
+  Population Size: 316
+  Best Quality: 1.0000
+  Avg Quality: 0.6973
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4163
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2622
+
+
+Generation 224:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.6994 ± 0.3308
+  Median Fitness: 0.9747
+  Min Fitness: 0.1875
+  Population Size: 316
+  Best Quality: 1.0000
+  Avg Quality: 0.6994
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4160
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2622
+
+
+Generation 225:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7003 ± 0.3307
+  Median Fitness: 0.9750
+  Min Fitness: 0.1875
+  Population Size: 317
+  Best Quality: 1.0000
+  Avg Quality: 0.7003
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4153
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2614
+
+
+Generation 226:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7008 ± 0.3303
+  Median Fitness: 0.9750
+  Min Fitness: 0.1875
+  Population Size: 317
+  Best Quality: 1.0000
+  Avg Quality: 0.7008
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4130
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2630
+
+
+Generation 227:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7008 ± 0.3303
+  Median Fitness: 0.9750
+  Min Fitness: 0.1875
+  Population Size: 317
+  Best Quality: 1.0000
+  Avg Quality: 0.7008
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4130
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2630
+
+
+Generation 228:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7001 ± 0.3300
+  Median Fitness: 0.9747
+  Min Fitness: 0.1875
+  Population Size: 318
+  Best Quality: 1.0000
+  Avg Quality: 0.7001
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4102
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2628
+
+
+Generation 229:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7010 ± 0.3299
+  Median Fitness: 0.9743
+  Min Fitness: 0.1875
+  Population Size: 319
+  Best Quality: 1.0000
+  Avg Quality: 0.7010
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4097
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2646
+
+
+Generation 230:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7031 ± 0.3297
+  Median Fitness: 0.9764
+  Min Fitness: 0.1875
+  Population Size: 319
+  Best Quality: 1.0000
+  Avg Quality: 0.7031
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4161
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2664
+
+
+Generation 231:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7018 ± 0.3301
+  Median Fitness: 0.9757
+  Min Fitness: 0.1875
+  Population Size: 320
+  Best Quality: 1.0000
+  Avg Quality: 0.7018
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4155
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2655
+
+
+Generation 232:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7018 ± 0.3301
+  Median Fitness: 0.9757
+  Min Fitness: 0.1875
+  Population Size: 320
+  Best Quality: 1.0000
+  Avg Quality: 0.7018
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4155
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2655
+
+
+Generation 233:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7018 ± 0.3301
+  Median Fitness: 0.9757
+  Min Fitness: 0.1875
+  Population Size: 320
+  Best Quality: 1.0000
+  Avg Quality: 0.7018
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4157
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2655
+
+
+Generation 234:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7026 ± 0.3299
+  Median Fitness: 0.9764
+  Min Fitness: 0.1875
+  Population Size: 321
+  Best Quality: 1.0000
+  Avg Quality: 0.7026
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4152
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2647
+
+
+Generation 235:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7015 ± 0.3301
+  Median Fitness: 0.9757
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7015
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4146
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2639
+
+
+Generation 236:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7035 ± 0.3298
+  Median Fitness: 0.9771
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7035
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4152
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2666
+
+
+Generation 237:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7038 ± 0.3300
+  Median Fitness: 0.9781
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7038
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4152
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2670
+
+
+Generation 238:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7038 ± 0.3300
+  Median Fitness: 0.9781
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7038
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4174
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2670
+
+
+Generation 239:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7038 ± 0.3300
+  Median Fitness: 0.9781
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7038
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2670
+
+
+Generation 240:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7038 ± 0.3300
+  Median Fitness: 0.9781
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7038
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2670
+
+
+Generation 241:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7038 ± 0.3300
+  Median Fitness: 0.9781
+  Min Fitness: 0.1875
+  Population Size: 322
+  Best Quality: 1.0000
+  Avg Quality: 0.7038
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4172
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2654
+
+
+Generation 242:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7048 ± 0.3299
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 323
+  Best Quality: 1.0000
+  Avg Quality: 0.7048
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4088
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2642
+
+
+Generation 243:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7065 ± 0.3296
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7065
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4126
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2654
+
+
+Generation 244:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7072 ± 0.3288
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7072
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4148
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2658
+
+
+Generation 245:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7079 ± 0.3281
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7079
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4167
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2662
+
+
+Generation 246:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7085 ± 0.3277
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7085
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4155
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2642
+
+
+Generation 247:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7085 ± 0.3277
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7085
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4177
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2630
+
+
+Generation 248:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4167
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2630
+
+
+Generation 249:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4189
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2630
+
+
+Generation 250:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 251:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 252:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 253:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 254:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 255:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 256:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7086 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 324
+  Best Quality: 1.0000
+  Avg Quality: 0.7086
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4170
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2641
+
+
+Generation 257:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7074 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 325
+  Best Quality: 1.0000
+  Avg Quality: 0.7074
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4168
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2633
+
+
+Generation 258:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7083 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 326
+  Best Quality: 1.0000
+  Avg Quality: 0.7083
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4182
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2625
+
+
+Generation 259:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7083 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 326
+  Best Quality: 1.0000
+  Avg Quality: 0.7083
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4182
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2625
+
+
+Generation 260:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7083 ± 0.3276
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 326
+  Best Quality: 1.0000
+  Avg Quality: 0.7083
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4181
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2625
+
+
+Generation 261:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7088 ± 0.3272
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 326
+  Best Quality: 1.0000
+  Avg Quality: 0.7088
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2632
+
+
+Generation 262:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7088 ± 0.3272
+  Median Fitness: 0.9795
+  Min Fitness: 0.1875
+  Population Size: 326
+  Best Quality: 1.0000
+  Avg Quality: 0.7088
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2632
+
+
+Generation 263:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7097 ± 0.3270
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 327
+  Best Quality: 1.0000
+  Avg Quality: 0.7097
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4175
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2633
+
+
+Generation 264:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7099 ± 0.3268
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 327
+  Best Quality: 1.0000
+  Avg Quality: 0.7099
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4130
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2633
+
+
+Generation 265:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7119 ± 0.3265
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 327
+  Best Quality: 1.0000
+  Avg Quality: 0.7119
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4131
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2648
+
+
+Generation 266:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7108 ± 0.3267
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 328
+  Best Quality: 1.0000
+  Avg Quality: 0.7108
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4142
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2640
+
+
+Generation 267:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7123 ± 0.3268
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 328
+  Best Quality: 1.0000
+  Avg Quality: 0.7123
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4122
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2661
+
+
+Generation 268:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7111 ± 0.3270
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 329
+  Best Quality: 1.0000
+  Avg Quality: 0.7111
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4142
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2653
+
+
+Generation 269:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7120 ± 0.3269
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 330
+  Best Quality: 1.0000
+  Avg Quality: 0.7120
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2660
+
+
+Generation 270:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7120 ± 0.3269
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 330
+  Best Quality: 1.0000
+  Avg Quality: 0.7120
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4135
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2660
+
+
+Generation 271:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7106 ± 0.3274
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 331
+  Best Quality: 1.0000
+  Avg Quality: 0.7106
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4138
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2656
+
+
+Generation 272:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7103 ± 0.3274
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 333
+  Best Quality: 1.0000
+  Avg Quality: 0.7103
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4128
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2640
+
+
+Generation 273:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7103 ± 0.3274
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 333
+  Best Quality: 1.0000
+  Avg Quality: 0.7103
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4127
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2640
+
+
+Generation 274:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7103 ± 0.3274
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 333
+  Best Quality: 1.0000
+  Avg Quality: 0.7103
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4103
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2640
+
+
+Generation 275:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7080 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7080
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4093
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2624
+
+
+Generation 276:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7080 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7080
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4112
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2624
+
+
+Generation 277:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2609
+
+
+Generation 278:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2609
+
+
+Generation 279:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2609
+
+
+Generation 280:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4116
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2608
+
+
+Generation 281:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4116
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2608
+
+
+Generation 282:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7081 ± 0.3277
+  Median Fitness: 0.9785
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7081
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4116
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2608
+
+
+Generation 283:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7082 ± 0.3278
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7082
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4097
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2600
+
+
+Generation 284:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7082 ± 0.3278
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7082
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4097
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2600
+
+
+Generation 285:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7082 ± 0.3278
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7082
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2585
+
+
+Generation 286:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7083 ± 0.3278
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 335
+  Best Quality: 1.0000
+  Avg Quality: 0.7083
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4097
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2577
+
+
+Generation 287:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7080 ± 0.3279
+  Median Fitness: 0.9806
+  Min Fitness: 0.1875
+  Population Size: 337
+  Best Quality: 1.0000
+  Avg Quality: 0.7080
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4068
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2580
+
+
+Generation 288:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7119 ± 0.3273
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 337
+  Best Quality: 1.0000
+  Avg Quality: 0.7119
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4085
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2595
+
+
+Generation 289:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7119 ± 0.3273
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 337
+  Best Quality: 1.0000
+  Avg Quality: 0.7119
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4085
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2595
+
+
+Generation 290:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7123 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 338
+  Best Quality: 1.0000
+  Avg Quality: 0.7123
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4077
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2591
+
+
+Generation 291:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7123 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 338
+  Best Quality: 1.0000
+  Avg Quality: 0.7123
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4077
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2591
+
+
+Generation 292:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7126 ± 0.3280
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 339
+  Best Quality: 1.0000
+  Avg Quality: 0.7126
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4080
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 293:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7126 ± 0.3280
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 339
+  Best Quality: 1.0000
+  Avg Quality: 0.7126
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4080
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 294:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7126 ± 0.3280
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 339
+  Best Quality: 1.0000
+  Avg Quality: 0.7126
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4080
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 295:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7126 ± 0.3280
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 339
+  Best Quality: 1.0000
+  Avg Quality: 0.7126
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4080
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 296:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7132 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7132
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4097
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 297:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7132 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7132
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 298:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7132 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7132
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2619
+
+
+Generation 299:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2620
+
+
+Generation 300:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2620
+
+
+Generation 301:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4098
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2620
+
+
+Generation 302:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4096
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2620
+
+
+Generation 303:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4154
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2606
+
+
+Generation 304:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4144
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2606
+
+
+Generation 305:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7133 ± 0.3277
+  Median Fitness: 0.9812
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7133
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4144
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2606
+
+
+Generation 306:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7192 ± 0.3268
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 340
+  Best Quality: 1.0000
+  Avg Quality: 0.7192
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4148
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2677
+
+
+Generation 307:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7178 ± 0.3273
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7178
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4145
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2669
+
+
+Generation 308:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7178 ± 0.3273
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7178
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4145
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2669
+
+
+Generation 309:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7197 ± 0.3269
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7197
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4147
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2694
+
+
+Generation 310:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7226 ± 0.3271
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7226
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4133
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2708
+
+
+Generation 311:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7226 ± 0.3271
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7226
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4133
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2708
+
+
+Generation 312:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7246 ± 0.3267
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7246
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2708
+
+
+Generation 313:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7246 ± 0.3267
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7246
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4137
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2708
+
+
+Generation 314:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7246 ± 0.3267
+  Median Fitness: 0.9826
+  Min Fitness: 0.1875
+  Population Size: 341
+  Best Quality: 1.0000
+  Avg Quality: 0.7246
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4139
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2708
+
+
+Generation 315:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7249 ± 0.3270
+  Median Fitness: 0.9830
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7249
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4179
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2701
+
+
+Generation 316:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7249 ± 0.3270
+  Median Fitness: 0.9830
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7249
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4179
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2701
+
+
+Generation 317:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7268 ± 0.3266
+  Median Fitness: 0.9837
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7268
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2716
+
+
+Generation 318:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7268 ± 0.3266
+  Median Fitness: 0.9837
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7268
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2716
+
+
+Generation 319:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7287 ± 0.3262
+  Median Fitness: 0.9837
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7287
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4184
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2725
+
+
+Generation 320:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7307 ± 0.3258
+  Median Fitness: 0.9844
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7307
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4223
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2759
+
+
+Generation 321:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7312 ± 0.3254
+  Median Fitness: 0.9844
+  Min Fitness: 0.1875
+  Population Size: 342
+  Best Quality: 1.0000
+  Avg Quality: 0.7312
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2774
+
+
+Generation 322:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7319 ± 0.3252
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 343
+  Best Quality: 1.0000
+  Avg Quality: 0.7319
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4250
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2780
+
+
+Generation 323:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7326 ± 0.3251
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 344
+  Best Quality: 1.0000
+  Avg Quality: 0.7326
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4267
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2793
+
+
+Generation 324:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4281
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2785
+
+
+Generation 325:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4281
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2785
+
+
+Generation 326:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4281
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2785
+
+
+Generation 327:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4281
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2785
+
+
+Generation 328:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4266
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2786
+
+
+Generation 329:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7315 ± 0.3254
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7315
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4266
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2786
+
+
+Generation 330:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4281
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2791
+
+
+Generation 331:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4289
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2790
+
+
+Generation 332:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4289
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2790
+
+
+Generation 333:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4289
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2790
+
+
+Generation 334:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4288
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2790
+
+
+Generation 335:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7330 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7330
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4305
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2778
+
+
+Generation 336:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7331 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 345
+  Best Quality: 1.0000
+  Avg Quality: 0.7331
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4283
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2776
+
+
+Generation 337:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7317 ± 0.3252
+  Median Fitness: 0.9844
+  Min Fitness: 0.1875
+  Population Size: 346
+  Best Quality: 1.0000
+  Avg Quality: 0.7317
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4290
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2768
+
+
+Generation 338:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7317 ± 0.3252
+  Median Fitness: 0.9844
+  Min Fitness: 0.1875
+  Population Size: 346
+  Best Quality: 1.0000
+  Avg Quality: 0.7317
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4292
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2768
+
+
+Generation 339:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7322 ± 0.3253
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 347
+  Best Quality: 1.0000
+  Avg Quality: 0.7322
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4288
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2789
+
+
+Generation 340:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7323 ± 0.3253
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 347
+  Best Quality: 1.0000
+  Avg Quality: 0.7323
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4308
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2789
+
+
+Generation 341:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7323 ± 0.3253
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 347
+  Best Quality: 1.0000
+  Avg Quality: 0.7323
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4308
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2789
+
+
+Generation 342:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7327 ± 0.3249
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 347
+  Best Quality: 1.0000
+  Avg Quality: 0.7327
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4299
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2803
+
+
+Generation 343:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7335 ± 0.3247
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 348
+  Best Quality: 1.0000
+  Avg Quality: 0.7335
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2795
+
+
+Generation 344:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7336 ± 0.3246
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 348
+  Best Quality: 1.0000
+  Avg Quality: 0.7336
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4287
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2795
+
+
+Generation 345:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7353 ± 0.3241
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 348
+  Best Quality: 1.0000
+  Avg Quality: 0.7353
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4301
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2825
+
+
+Generation 346:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7353 ± 0.3241
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 348
+  Best Quality: 1.0000
+  Avg Quality: 0.7353
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4283
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2793
+
+
+Generation 347:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7353 ± 0.3241
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 348
+  Best Quality: 1.0000
+  Avg Quality: 0.7353
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4263
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2778
+
+
+Generation 348:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7342 ± 0.3243
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7342
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 349:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7342 ± 0.3243
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7342
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 350:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7342 ± 0.3243
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7342
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4265
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 351:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7342 ± 0.3244
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7342
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4266
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 352:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7342 ± 0.3244
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7342
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4284
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 353:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7355 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7355
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4282
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2771
+
+
+Generation 354:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7355 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7355
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4282
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2771
+
+
+Generation 355:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7355 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7355
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4303
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2771
+
+
+Generation 356:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7356 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7356
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4311
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2772
+
+
+Generation 357:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7370 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7370
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4314
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2765
+
+
+Generation 358:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7370 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7370
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4292
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2761
+
+
+Generation 359:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7370 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 349
+  Best Quality: 1.0000
+  Avg Quality: 0.7370
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4292
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2761
+
+
+Generation 360:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4310
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2751
+
+
+Generation 361:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4310
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2751
+
+
+Generation 362:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4310
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2751
+
+
+Generation 363:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4310
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2751
+
+
+Generation 364:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4294
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2766
+
+
+Generation 365:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4294
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2766
+
+
+Generation 366:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7372 ± 0.3241
+  Median Fitness: 0.9851
+  Min Fitness: 0.1875
+  Population Size: 350
+  Best Quality: 1.0000
+  Avg Quality: 0.7372
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4294
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2766
+
+
+Generation 367:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7361 ± 0.3243
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7361
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2753
+
+
+Generation 368:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7361 ± 0.3243
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7361
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2753
+
+
+Generation 369:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7378 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7378
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2757
+
+
+Generation 370:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7378 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7378
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2757
+
+
+Generation 371:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7378 ± 0.3237
+  Median Fitness: 0.9847
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7378
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4293
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2757
+
+
+Generation 372:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7392 ± 0.3237
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4256
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2767
+
+
+Generation 373:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7392 ± 0.3237
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4235
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2766
+
+
+Generation 374:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7392 ± 0.3237
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4234
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2768
+
+
+Generation 375:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7392 ± 0.3237
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4234
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2768
+
+
+Generation 376:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7392 ± 0.3237
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7392
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4236
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2766
+
+
+Generation 377:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7412 ± 0.3232
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7412
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4236
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2780
+
+
+Generation 378:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7412 ± 0.3232
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7412
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4237
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2780
+
+
+Generation 379:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7412 ± 0.3232
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7412
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4217
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2774
+
+
+Generation 380:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7412 ± 0.3232
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 351
+  Best Quality: 1.0000
+  Avg Quality: 0.7412
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4217
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2774
+
+
+Generation 381:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7414 ± 0.3235
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 352
+  Best Quality: 1.0000
+  Avg Quality: 0.7414
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4214
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2778
+
+
+Generation 382:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7400 ± 0.3241
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 353
+  Best Quality: 1.0000
+  Avg Quality: 0.7400
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4209
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2770
+
+
+Generation 383:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7401 ± 0.3241
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 353
+  Best Quality: 1.0000
+  Avg Quality: 0.7401
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4209
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2758
+
+
+Generation 384:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7421 ± 0.3233
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 353
+  Best Quality: 1.0000
+  Avg Quality: 0.7421
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2781
+
+
+Generation 385:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7440 ± 0.3228
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 353
+  Best Quality: 1.0000
+  Avg Quality: 0.7440
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2781
+
+
+Generation 386:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7429 ± 0.3231
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 354
+  Best Quality: 1.0000
+  Avg Quality: 0.7429
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4197
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2773
+
+
+Generation 387:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7417 ± 0.3234
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 355
+  Best Quality: 1.0000
+  Avg Quality: 0.7417
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2773
+
+
+Generation 388:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7417 ± 0.3234
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 355
+  Best Quality: 1.0000
+  Avg Quality: 0.7417
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2773
+
+
+Generation 389:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7417 ± 0.3234
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 355
+  Best Quality: 1.0000
+  Avg Quality: 0.7417
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2773
+
+
+Generation 390:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7417 ± 0.3234
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 355
+  Best Quality: 1.0000
+  Avg Quality: 0.7417
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2769
+
+
+Generation 391:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7417 ± 0.3234
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 355
+  Best Quality: 1.0000
+  Avg Quality: 0.7417
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2769
+
+
+Generation 392:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7405 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7405
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4199
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2761
+
+
+Generation 393:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7405 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7405
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4199
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2761
+
+
+Generation 394:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7405 ± 0.3238
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7405
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4199
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2761
+
+
+Generation 395:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7424 ± 0.3233
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7424
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4203
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2778
+
+
+Generation 396:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7424 ± 0.3233
+  Median Fitness: 0.9854
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7424
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4164
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2778
+
+
+Generation 397:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7425 ± 0.3233
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7425
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4164
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2793
+
+
+Generation 398:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7425 ± 0.3233
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7425
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4164
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2793
+
+
+Generation 399:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7445 ± 0.3225
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7445
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2804
+
+
+Generation 400:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7445 ± 0.3225
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7445
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2804
+
+
+Generation 401:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7445 ± 0.3225
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7445
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2804
+
+
+Generation 402:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7445 ± 0.3225
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7445
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2804
+
+
+Generation 403:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7445 ± 0.3225
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7445
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2804
+
+
+Generation 404:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7464 ± 0.3218
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7464
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4177
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 405:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7464 ± 0.3218
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7464
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 406:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7464 ± 0.3218
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7464
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 407:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7465 ± 0.3218
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7465
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 408:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7465 ± 0.3218
+  Median Fitness: 0.9858
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7465
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4173
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 409:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7483 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7483
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4192
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2824
+
+
+Generation 410:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7485 ± 0.3215
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7485
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4171
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2820
+
+
+Generation 411:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7485 ± 0.3215
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 356
+  Best Quality: 1.0000
+  Avg Quality: 0.7485
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4171
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2820
+
+
+Generation 412:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7473 ± 0.3218
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 357
+  Best Quality: 1.0000
+  Avg Quality: 0.7473
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4166
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2812
+
+
+Generation 413:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7473 ± 0.3218
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 357
+  Best Quality: 1.0000
+  Avg Quality: 0.7473
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4166
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2812
+
+
+Generation 414:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7461 ± 0.3221
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7461
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4166
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2805
+
+
+Generation 415:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7461 ± 0.3221
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7461
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4166
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2805
+
+
+Generation 416:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7462 ± 0.3221
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7462
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2805
+
+
+Generation 417:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7462 ± 0.3221
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7462
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4183
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2805
+
+
+Generation 418:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7462 ± 0.3220
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7462
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4161
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2799
+
+
+Generation 419:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7462 ± 0.3220
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7462
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4161
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2799
+
+
+Generation 420:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7475 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7475
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4179
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2800
+
+
+Generation 421:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7475 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7475
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2797
+
+
+Generation 422:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7475 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7475
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2797
+
+
+Generation 423:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7475 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7475
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2797
+
+
+Generation 424:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7475 ± 0.3213
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7475
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2797
+
+
+Generation 425:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7476 ± 0.3214
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7476
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2819
+
+
+Generation 426:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7476 ± 0.3214
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7476
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4180
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2819
+
+
+Generation 427:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7477 ± 0.3214
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7477
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2819
+
+
+Generation 428:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7477 ± 0.3214
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7477
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4202
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2819
+
+
+Generation 429:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7494 ± 0.3209
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7494
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2842
+
+
+Generation 430:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7494 ± 0.3209
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7494
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4212
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2842
+
+
+Generation 431:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7495 ± 0.3209
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7495
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4233
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2842
+
+
+Generation 432:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7495 ± 0.3209
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7495
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4233
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2842
+
+
+Generation 433:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7495 ± 0.3209
+  Median Fitness: 0.9861
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7495
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4255
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2842
+
+
+Generation 434:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 435:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 436:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 437:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 438:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 439:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 440:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7527 ± 0.3203
+  Median Fitness: 0.9865
+  Min Fitness: 0.1875
+  Population Size: 358
+  Best Quality: 1.0000
+  Avg Quality: 0.7527
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2851
+
+
+Generation 441:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4255
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2831
+
+
+Generation 442:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4255
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2831
+
+
+Generation 443:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4255
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2831
+
+
+Generation 444:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7534 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7534
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4254
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2834
+
+
+Generation 445:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7534 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7534
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4254
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2834
+
+
+Generation 446:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7534 ± 0.3201
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7534
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4254
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2834
+
+
+Generation 447:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7552 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4273
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2855
+
+
+Generation 448:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7552 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4273
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2855
+
+
+Generation 449:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7552 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4252
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2856
+
+
+Generation 450:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7552 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4252
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2856
+
+
+Generation 451:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7552 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7552
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4252
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2856
+
+
+Generation 452:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7557 ± 0.3191
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7557
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4253
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2870
+
+
+Generation 453:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7557 ± 0.3191
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7557
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4261
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2881
+
+
+Generation 454:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7557 ± 0.3191
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7557
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4261
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2881
+
+
+Generation 455:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7557 ± 0.3191
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 359
+  Best Quality: 1.0000
+  Avg Quality: 0.7557
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4262
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2881
+
+
+Generation 456:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7545 ± 0.3195
+  Median Fitness: 0.9872
+  Min Fitness: 0.1875
+  Population Size: 360
+  Best Quality: 1.0000
+  Avg Quality: 0.7545
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4257
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2873
+
+
+Generation 457:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7545 ± 0.3195
+  Median Fitness: 0.9872
+  Min Fitness: 0.1875
+  Population Size: 360
+  Best Quality: 1.0000
+  Avg Quality: 0.7545
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4237
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2886
+
+
+Generation 458:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4231
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2878
+
+
+Generation 459:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4231
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2878
+
+
+Generation 460:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4231
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2878
+
+
+Generation 461:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4250
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2882
+
+
+Generation 462:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9868
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4250
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2882
+
+
+Generation 463:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4246
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2879
+
+
+Generation 464:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4246
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2879
+
+
+Generation 465:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4246
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2879
+
+
+Generation 466:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7533 ± 0.3199
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7533
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4246
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2879
+
+
+Generation 467:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7534 ± 0.3199
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 361
+  Best Quality: 1.0000
+  Avg Quality: 0.7534
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4247
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2871
+
+
+Generation 468:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7522 ± 0.3203
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7522
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4243
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2863
+
+
+Generation 469:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7522 ± 0.3203
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7522
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4243
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2863
+
+
+Generation 470:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7522 ± 0.3203
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7522
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4243
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2863
+
+
+Generation 471:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7540 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7540
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4241
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2863
+
+
+Generation 472:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4240
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 473:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4240
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 474:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4240
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 475:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4240
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 476:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 477:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 478:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 479:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 480:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 481:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4259
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2849
+
+
+Generation 482:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7541 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 362
+  Best Quality: 1.0000
+  Avg Quality: 0.7541
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4258
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2822
+
+
+Generation 483:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4253
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2814
+
+
+Generation 484:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4253
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2814
+
+
+Generation 485:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4275
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2816
+
+
+Generation 486:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4275
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2816
+
+
+Generation 487:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4275
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2816
+
+
+Generation 488:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4275
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2816
+
+
+Generation 489:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7529 ± 0.3201
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7529
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4275
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2816
+
+
+Generation 490:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7547 ± 0.3196
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7547
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4278
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2830
+
+
+Generation 491:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4264
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 492:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4264
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 493:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4264
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 494:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4282
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 495:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4300
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2846
+
+
+Generation 496:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7551 ± 0.3198
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 363
+  Best Quality: 1.0000
+  Avg Quality: 0.7551
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4320
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2846
+
+
+Generation 497:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7540 ± 0.3202
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 364
+  Best Quality: 1.0000
+  Avg Quality: 0.7540
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4320
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 498:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7540 ± 0.3202
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 364
+  Best Quality: 1.0000
+  Avg Quality: 0.7540
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4320
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2838
+
+
+Generation 499:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7559 ± 0.3194
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 364
+  Best Quality: 1.0000
+  Avg Quality: 0.7559
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4300
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2858
+
+
+Generation 500:
+  Best Fitness: 1.0000
+  Avg Fitness: 0.7559 ± 0.3194
+  Median Fitness: 0.9875
+  Min Fitness: 0.1875
+  Population Size: 364
+  Best Quality: 1.0000
+  Avg Quality: 0.7559
+  Best Diversity: 1.0000
+  Avg Diversity: 0.4300
+  Best Controlability: 1.0000
+  Avg Controlability: 0.2858
+
+
+============================================================
+=== Overall Statistics ===
+============================================================
+
+Total Generations: 501
+Overall Best Fitness: 1.0000
+Overall Worst Best Fitness: 0.3019
+Average of Best Fitness: 0.9820 ± 0.1073
+Average of Avg Fitness: 0.6737 ± 0.1008
+
+Best Generation: 69 (fitness: 1.0000)
