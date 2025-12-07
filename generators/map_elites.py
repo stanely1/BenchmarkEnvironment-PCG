@@ -88,14 +88,14 @@ class Generator(search.Generator):
         if self._problem.startswith('isaac-'):
             return (info['dead_end'], info['locations'], sum(1 for x in info['flat'] if x == 0))
 
+        # Can't find solution that passes quality
+        if self._problem.startswith('talakat-'):
+            return (info['script_connectivity'], round(info['bullet_coverage'], 1))
+
 
 
         if self._problem.startswith('building-'):
             return (info['blocks'], sum(1 for h in info['heights'] if h != 0))
-
-        # Can't find solution that passes quality
-        if self._problem.startswith('talakat-'):
-            return (info['script_connectivity'], round(info['bullet_coverage'], 1))
 
         if self._problem.startswith('ddave-'):
             player_locations = info['player_locations']
