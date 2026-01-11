@@ -1,0 +1,57 @@
+random:
+
+Total Generations: 101
+Overall Best Fitness: 0.7214
+Overall Worst Best Fitness: 0.5436
+Average of Best Fitness: 0.6977 ± 0.0309
+Average of Avg Fitness: 0.5642 ± 0.0489
+
+Best Generation: 58 (fitness: 0.7214)
+
+===================================================
+
+ga:
+
+Total Generations: 101
+Overall Best Fitness: 0.9123
+Overall Worst Best Fitness: 0.6116
+Average of Best Fitness: 0.8337 ± 0.0724
+Average of Avg Fitness: 0.7541 ± 0.1149
+
+Best Generation: 88 (fitness: 0.9123)
+
+===================================================
+
+es:
+
+Total Generations: 101
+Overall Best Fitness: 0.8273
+Overall Worst Best Fitness: 0.5394
+Average of Best Fitness: 0.7724 ± 0.0420
+Average of Avg Fitness: 0.7393 ± 0.0810
+
+Best Generation: 99 (fitness: 0.8273)
+
+===================================================
+
+bsp:
+
+Total Generations: 101
+Overall Best Fitness: 1.0000
+Overall Worst Best Fitness: 1.0000
+Average of Best Fitness: 1.0000 ± 0.0000
+Average of Avg Fitness: 1.0000 ± 0.0000
+
+Best Generation: 0 (fitness: 1.0000)
+
+===================================================
+
+agent:
+
+Total Generations: 101
+Overall Best Fitness: 1.0000
+Overall Worst Best Fitness: 0.6875
+Average of Best Fitness: 0.8788 ± 0.0820
+Average of Avg Fitness: 0.8788 ± 0.0820
+
+Best Generation: 0 (fitness: 1.0000)
